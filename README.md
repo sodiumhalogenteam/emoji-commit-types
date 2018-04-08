@@ -28,4 +28,5 @@ Showing two examples each...
 
 ## automating emojis in terminal
 
-Maybe a simple CLI would be nice...
+Maybe a simple CLI would be nice...boom!
+https://github.com/sodiumhalogenteam/git-emoji
