@@ -12,17 +12,17 @@ Format: `[emoji] CAPS_TITLE: present tense commit message`
 Showing two examples each...
 
 * 💅 STYLES: adds styles to Header dropdowns
-* 💅 STYLES: tweaks
+* 💅 STYLES: tweaks styles of contact form
 * 🐛 BUG: fixes props assignment on MenuToggle
 * 🐛 BUG: fixes typo on About
 * 👌 IMPROVE: tweaks logo SVG animation
 * 👌 IMPROVE: reorders Checkout flow
-* 🚀 RELEASE: adds
-* 🚀 RELEASE: adds
-* 📦 NEW: adds
-* 📦 NEW: adds
-* 📖 DOC: edits SSH insturctions
-* 📖 DOC: adds local setup guide
+* 🚀 RELEASE: ships checkout feature
+* 🚀 RELEASE: releases german translation
+* 📦 NEW: adds CTA component
+* 📦 NEW: creates new Teacher data model
+* 📖 DOC: edits SSH instructions
+* 📖 DOC: adds local env setup guide
 
 ## automating emojis in terminal
 
