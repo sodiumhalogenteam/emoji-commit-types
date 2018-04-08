@@ -8,11 +8,11 @@ We've found this to be a great way to keep our commits concise.
 
 ## key w/ commit style/examples
 
-Format: `[emoji] CAPS_TITLE: present tense commit message`
+Format: `[emoji] SINGULAR_CAPS_TITLE: present tense commit message`
 Showing two examples each...
 
-* 💅 STYLES: adds styles to Header dropdowns
-* 💅 STYLES: tweaks styles of contact form
+* 💅 STYLE: adds styles to Header dropdowns
+* 💅 STYLE: tweaks styles of contact form
 * 🐛 BUG: fixes props assignment on MenuToggle
 * 🐛 BUG: fixes typo on About
 * 👌 IMPROVE: tweaks logo SVG animation
