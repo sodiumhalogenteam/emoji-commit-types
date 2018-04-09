@@ -15,8 +15,8 @@ Showing two examples each...
 * 🐛 BUG: fixes typo on About
 * 📖 DOC: edits SSH instructions
 * 📖 DOC: adds local env setup guide
-* 👌 IMPROVE: tweaks logo SVG animation
-* 👌 IMPROVE: reorders Checkout flow
+* ⚡ IMPROVE: tweaks logo SVG animation
+* ⚡ IMPROVE: reorders Checkout flow
 * 📦 NEW: adds CTA component
 * 📦 NEW: creates new Teacher data model
 * 🚀 RELEASE: ships checkout feature
